@@ -31,7 +31,7 @@ class BadgeTitle extends StatelessWidget {
             style: const TextStyle(
               fontSize: 20,
               color: Colors.white,
-              letterSpacing: 2.5,
+              letterSpacing: 2,
               fontWeight: FontWeight.w900,
             ),
           ),
